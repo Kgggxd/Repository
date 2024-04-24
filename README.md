@@ -9,7 +9,3 @@ background: linear-gradient(to bottom, #FF99FF 0px, #FF44FF 100%)repeat-x scroll
 </span>
 </div>
 </a >
-
-</div>
-# Repository
-Kg's Repository
